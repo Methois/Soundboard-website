@@ -6,3 +6,5 @@ buttons.forEach(function(button) {
     sound.play();
   });
 });
+
+// Coded with ❤ By Methois 

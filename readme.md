@@ -4,7 +4,7 @@ Go checkout the site by clicking [here](https://soundboard.methois.dev/)
 
 ![](https://cdn.discordapp.com/attachments/1010517250152865795/1076908224508334172/image.png)
 
-Welcome to the quote of the day website. if something does not work or if something does not work. Join the discord via the link below
+Welcome to the SoundBoard website. if something does not work or if something does not work. Join the discord via the link below
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/PsEYghSGpm)
 
